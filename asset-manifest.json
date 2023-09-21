@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wildlife-health/static/css/main.5d960a4a.css",
-    "main.js": "/wildlife-health/static/js/main.f68f08f4.js",
+    "main.js": "/wildlife-health/static/js/main.14fce1a2.js",
     "static/media/home-background.jpg": "/wildlife-health/static/media/home-background.41d0142c1381bfde4562.jpg",
     "static/media/homemain.jpg": "/wildlife-health/static/media/homemain.beb8ec09af9061a61df3.jpg",
     "static/media/about-page-img1.png": "/wildlife-health/static/media/about-page-img1.0c8bf65849a5f49cd590.png",
@@ -42,10 +42,10 @@
     "static/media/wlh-logo.png": "/wildlife-health/static/media/wlh-logo.59afe249a17b0e93ae3e.png",
     "index.html": "/wildlife-health/index.html",
     "main.5d960a4a.css.map": "/wildlife-health/static/css/main.5d960a4a.css.map",
-    "main.f68f08f4.js.map": "/wildlife-health/static/js/main.f68f08f4.js.map"
+    "main.14fce1a2.js.map": "/wildlife-health/static/js/main.14fce1a2.js.map"
   },
   "entrypoints": [
     "static/css/main.5d960a4a.css",
-    "static/js/main.f68f08f4.js"
+    "static/js/main.14fce1a2.js"
   ]
 }
